@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://cdnorg.d.miui.com/V14.0.9.0.TMYCNXM/miui_LIUQIN_V14.0.9.0.TMYCNXM_2590719354_13.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: a-only
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
